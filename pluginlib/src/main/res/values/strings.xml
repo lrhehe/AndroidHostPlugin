@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PluginLib</string>
+    <string name="greet">greet form PluginLib</string>
+</resources>
